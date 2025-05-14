@@ -1,1 +1,1 @@
-# TreasureIsland-Game-python
+# TreasureIsland-Game.python
